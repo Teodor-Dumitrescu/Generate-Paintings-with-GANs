@@ -5,7 +5,7 @@ Generating Paintings with Generative Adversarial Networks
 
 - My Bachelor's Degree [Thesis](https://github.com/Teodor-Dumitrescu/Generate-Paintings-with-GANs/blob/main/Teodor-Dumitrescu-Thesis.pdf)
 - [PowerPoint presentation](https://github.com/Teodor-Dumitrescu/Generate-Paintings-with-GANs/blob/main/Project-Presentation.pptx) of my project
-- Jupyter Notebooks with code used while experimenting 
+- Jupyter Notebooks with code used while experimenting. The evolution of experiments is also shown (from epoch to epoch of training)
 - Collages of paintings generated for various art styles.
 
 
@@ -24,8 +24,6 @@ Paintings generated for 10 historic art styles:
 All paintings have a resolution of 128 x 128 pixels.
 
 I have trained a GAN on a data set of paintings representative for each genre, separately.
-
-The code is not publicly available yet, but when I will find the time to deploy the web application that allows any user to generate his own paintings, I will also upload the code for the networks + training.
 
 ## Results
 
