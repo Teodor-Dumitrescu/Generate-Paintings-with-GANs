@@ -1,3 +1,0 @@
-CGAN-10-Spectral-norm.ipynb filter=lfs diff=lfs merge=lfs -text
-DCGAN-augmented-Baroque.ipynb filter=lfs diff=lfs merge=lfs -text
-DCGAN-augmented-Expressionism-256.ipynb filter=lfs diff=lfs merge=lfs -text
