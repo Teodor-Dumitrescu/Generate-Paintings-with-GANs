@@ -2,7 +2,11 @@
 Generating Paintings with Generative Adversarial Networks
 
 ## Curent repo state
-My Bachelor's Degree Thesis ([this file](https://github.com/Teodor-Dumitrescu/Generate-Paintings-with-GANs/Teodor-Dumitrescu-Thesis.pdf)) and collages of paintings generated for various art styles.
+
+- My Bachelor's Degree [Thesis](https://github.com/Teodor-Dumitrescu/Generate-Paintings-with-GANs/Teodor-Dumitrescu-Thesis.pdf)
+- [PowerPoint presentation](https://github.com/Teodor-Dumitrescu/Generate-Paintings-with-GANs/Project-Presentation.pptx) of my project
+- Jupyter Notebooks with code used while experimenting 
+- Collages of paintings generated for various art styles.
 
 
 Paintings generated for 10 historic art styles:
